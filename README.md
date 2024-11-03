@@ -1,5 +1,3 @@
-# company-sales-management-system
-
 # Company Sales Management System
 
 This repository contains SQL scripts for a relational database schema designed to manage a company’s sales, employees, clients, branches, and suppliers. The database captures information about employees, their relationships with clients, sales data, and branch information.
